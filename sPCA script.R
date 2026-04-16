@@ -1,4 +1,5 @@
 # Spatial Principal Component Analysis (sPCA) Workflow for DArT SNP Data
+# R. Dimon April 2026
 
 # This script performs a spatial Principal Component Analysis (sPCA) using individual-level SNP genotype data stored in a DArT-style `dms` object.
 # The script is designed to be: 1. reproducible; 2. easy to share with collaborators; 3. clearly annotated for publication-style methods documentation.
